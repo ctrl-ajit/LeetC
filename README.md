@@ -15,4 +15,9 @@ Solving Leet code problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ctrl-ajit/LeetC/tree/master/0009-palindrome-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ctrl-ajit/LeetC/tree/master/2288-count-operations-to-obtain-zero) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/ctrl-ajit/LeetC/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
