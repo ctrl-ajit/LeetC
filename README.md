@@ -7,6 +7,7 @@ Solving Leet code problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ctrl-ajit/LeetC/tree/master/0001-two-sum) |
+| [0474-ones-and-zeroes](https://github.com/ctrl-ajit/LeetC/tree/master/0474-ones-and-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,12 @@ Solving Leet code problems
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ctrl-ajit/LeetC/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/ctrl-ajit/LeetC/tree/master/0474-ones-and-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/ctrl-ajit/LeetC/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
