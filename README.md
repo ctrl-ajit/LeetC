@@ -22,6 +22,7 @@ Solving Leet code problems
 ## Simulation
 |  |
 | ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ctrl-ajit/LeetC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ctrl-ajit/LeetC/tree/master/2288-count-operations-to-obtain-zero) |
 ## Linked List
 |  |
@@ -35,6 +36,7 @@ Solving Leet code problems
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/ctrl-ajit/LeetC/tree/master/0474-ones-and-zeroes) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ctrl-ajit/LeetC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ctrl-ajit/LeetC/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
