@@ -38,6 +38,7 @@ Solving Leet code problems
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/ctrl-ajit/LeetC/tree/master/0474-ones-and-zeroes) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ctrl-ajit/LeetC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ctrl-ajit/LeetC/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ctrl-ajit/LeetC/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
@@ -63,4 +64,12 @@ Solving Leet code problems
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/ctrl-ajit/LeetC/tree/master/2625-increment-submatrices-by-one) |
+## Sliding Window
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ctrl-ajit/LeetC/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ctrl-ajit/LeetC/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
