@@ -18,6 +18,7 @@ Solving Leet code problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ctrl-ajit/LeetC/tree/master/0001-two-sum) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/ctrl-ajit/LeetC/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ctrl-ajit/LeetC/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
@@ -45,6 +46,7 @@ Solving Leet code problems
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/ctrl-ajit/LeetC/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ctrl-ajit/LeetC/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/ctrl-ajit/LeetC/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ctrl-ajit/LeetC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ctrl-ajit/LeetC/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ctrl-ajit/LeetC/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -72,6 +74,7 @@ Solving Leet code problems
 ## Prefix Sum
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/ctrl-ajit/LeetC/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/ctrl-ajit/LeetC/tree/master/2625-increment-submatrices-by-one) |
 ## Sliding Window
 |  |
@@ -86,4 +89,8 @@ Solving Leet code problems
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/ctrl-ajit/LeetC/tree/master/0759-set-intersection-size-at-least-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ctrl-ajit/LeetC/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/ctrl-ajit/LeetC/tree/master/1930-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
