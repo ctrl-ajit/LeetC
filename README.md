@@ -106,4 +106,12 @@ Solving Leet code problems
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ctrl-ajit/LeetC/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ctrl-ajit/LeetC/tree/master/1930-unique-length-3-palindromic-subsequences) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/ctrl-ajit/LeetC/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/ctrl-ajit/LeetC/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
