@@ -21,6 +21,7 @@ Solving Leet code problems
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ctrl-ajit/LeetC/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ctrl-ajit/LeetC/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ctrl-ajit/LeetC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Solving Leet code problems
 | [1590-make-sum-divisible-by-p](https://github.com/ctrl-ajit/LeetC/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ctrl-ajit/LeetC/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ctrl-ajit/LeetC/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +41,7 @@ Solving Leet code problems
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ctrl-ajit/LeetC/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ctrl-ajit/LeetC/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ctrl-ajit/LeetC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -126,4 +129,8 @@ Solving Leet code problems
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ctrl-ajit/LeetC/tree/master/2141-maximum-running-time-of-n-computers) |
+## Geometry
+|  |
+| ------- |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3625-count-number-of-trapezoids-ii) |
 <!---LeetCode Topics End-->
