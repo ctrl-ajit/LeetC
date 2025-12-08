@@ -40,6 +40,7 @@ Solving Leet code problems
 | [1015-smallest-integer-divisible-by-k](https://github.com/ctrl-ajit/LeetC/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ctrl-ajit/LeetC/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ctrl-ajit/LeetC/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1925-count-square-sum-triples](https://github.com/ctrl-ajit/LeetC/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ctrl-ajit/LeetC/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ctrl-ajit/LeetC/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ctrl-ajit/LeetC/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -114,6 +115,7 @@ Solving Leet code problems
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/ctrl-ajit/LeetC/tree/master/1925-count-square-sum-triples) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ctrl-ajit/LeetC/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Sorting
 |  |
