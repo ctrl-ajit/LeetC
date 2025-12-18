@@ -32,6 +32,7 @@ Solving Leet code problems
 | [3583-count-special-triplets](https://github.com/ctrl-ajit/LeetC/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/ctrl-ajit/LeetC/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ctrl-ajit/LeetC/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,11 +131,13 @@ Solving Leet code problems
 | [2625-increment-submatrices-by-one](https://github.com/ctrl-ajit/LeetC/tree/master/2625-increment-submatrices-by-one) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ctrl-ajit/LeetC/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ctrl-ajit/LeetC/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ctrl-ajit/LeetC/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Sliding Window
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ctrl-ajit/LeetC/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ctrl-ajit/LeetC/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ctrl-ajit/LeetC/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Enumeration
 |  |
 | ------- |
