@@ -15,6 +15,7 @@ Solving Leet code problems
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ctrl-ajit/LeetC/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ctrl-ajit/LeetC/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ctrl-ajit/LeetC/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ctrl-ajit/LeetC/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/ctrl-ajit/LeetC/tree/master/1590-make-sum-divisible-by-p) |
 | [2054-two-best-non-overlapping-events](https://github.com/ctrl-ajit/LeetC/tree/master/2054-two-best-non-overlapping-events) |
@@ -139,6 +140,7 @@ Solving Leet code problems
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ctrl-ajit/LeetC/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/ctrl-ajit/LeetC/tree/master/2625-increment-submatrices-by-one) |
 ## Prefix Sum
@@ -196,6 +198,7 @@ Solving Leet code problems
 ## Binary Search
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/ctrl-ajit/LeetC/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ctrl-ajit/LeetC/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Geometry
