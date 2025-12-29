@@ -45,6 +45,7 @@ Solving Leet code problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ctrl-ajit/LeetC/tree/master/0001-two-sum) |
+| [0756-pyramid-transition-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/0756-pyramid-transition-matrix) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ctrl-ajit/LeetC/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ctrl-ajit/LeetC/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ctrl-ajit/LeetC/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -93,6 +94,7 @@ Solving Leet code problems
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/ctrl-ajit/LeetC/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ctrl-ajit/LeetC/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ctrl-ajit/LeetC/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ctrl-ajit/LeetC/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -182,6 +184,7 @@ Solving Leet code problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ctrl-ajit/LeetC/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ctrl-ajit/LeetC/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Tree
@@ -242,4 +245,8 @@ Solving Leet code problems
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/ctrl-ajit/LeetC/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/ctrl-ajit/LeetC/tree/master/2402-meeting-rooms-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
