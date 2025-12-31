@@ -19,6 +19,7 @@ Solving Leet code problems
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ctrl-ajit/LeetC/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/ctrl-ajit/LeetC/tree/master/1590-make-sum-divisible-by-p) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ctrl-ajit/LeetC/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/ctrl-ajit/LeetC/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ctrl-ajit/LeetC/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ctrl-ajit/LeetC/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -147,6 +148,7 @@ Solving Leet code problems
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/ctrl-ajit/LeetC/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ctrl-ajit/LeetC/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ctrl-ajit/LeetC/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/ctrl-ajit/LeetC/tree/master/2625-increment-submatrices-by-one) |
 ## Prefix Sum
@@ -199,6 +201,7 @@ Solving Leet code problems
 ## Depth-First Search
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ctrl-ajit/LeetC/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ctrl-ajit/LeetC/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ctrl-ajit/LeetC/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ctrl-ajit/LeetC/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -206,6 +209,7 @@ Solving Leet code problems
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ctrl-ajit/LeetC/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/ctrl-ajit/LeetC/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ctrl-ajit/LeetC/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Geometry
@@ -235,10 +239,12 @@ Solving Leet code problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ctrl-ajit/LeetC/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ctrl-ajit/LeetC/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ctrl-ajit/LeetC/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ctrl-ajit/LeetC/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
