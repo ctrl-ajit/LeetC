@@ -7,6 +7,7 @@ Solving Leet code problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ctrl-ajit/LeetC/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/ctrl-ajit/LeetC/tree/master/0066-plus-one) |
 | [0474-ones-and-zeroes](https://github.com/ctrl-ajit/LeetC/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ctrl-ajit/LeetC/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ctrl-ajit/LeetC/tree/master/0759-set-intersection-size-at-least-two) |
@@ -62,6 +63,7 @@ Solving Leet code problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ctrl-ajit/LeetC/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ctrl-ajit/LeetC/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/ctrl-ajit/LeetC/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ctrl-ajit/LeetC/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ctrl-ajit/LeetC/tree/master/1523-count-odd-numbers-in-an-interval-range) |
