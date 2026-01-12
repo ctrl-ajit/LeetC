@@ -18,6 +18,7 @@ Solving Leet code problems
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ctrl-ajit/LeetC/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ctrl-ajit/LeetC/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ctrl-ajit/LeetC/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ctrl-ajit/LeetC/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/ctrl-ajit/LeetC/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ctrl-ajit/LeetC/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -71,6 +72,7 @@ Solving Leet code problems
 | [0066-plus-one](https://github.com/ctrl-ajit/LeetC/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/ctrl-ajit/LeetC/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ctrl-ajit/LeetC/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ctrl-ajit/LeetC/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ctrl-ajit/LeetC/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ctrl-ajit/LeetC/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ctrl-ajit/LeetC/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -233,6 +235,7 @@ Solving Leet code problems
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/ctrl-ajit/LeetC/tree/master/1266-minimum-time-visiting-all-points) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Stack
 |  |
