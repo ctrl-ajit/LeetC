@@ -35,6 +35,7 @@ Solving Leet code problems
 | [2625-increment-submatrices-by-one](https://github.com/ctrl-ajit/LeetC/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ctrl-ajit/LeetC/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ctrl-ajit/LeetC/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ctrl-ajit/LeetC/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ctrl-ajit/LeetC/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ctrl-ajit/LeetC/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ctrl-ajit/LeetC/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -64,6 +65,7 @@ Solving Leet code problems
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ctrl-ajit/LeetC/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ctrl-ajit/LeetC/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/ctrl-ajit/LeetC/tree/master/2402-meeting-rooms-iii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ctrl-ajit/LeetC/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3531-count-covered-buildings](https://github.com/ctrl-ajit/LeetC/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ctrl-ajit/LeetC/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/ctrl-ajit/LeetC/tree/master/3606-coupon-code-validator) |
@@ -190,6 +192,7 @@ Solving Leet code problems
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/ctrl-ajit/LeetC/tree/master/1925-count-square-sum-triples) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ctrl-ajit/LeetC/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ctrl-ajit/LeetC/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Sorting
 |  |
