@@ -43,6 +43,7 @@ Solving Leet code problems
 | [3075-maximize-happiness-of-selected-children](https://github.com/ctrl-ajit/LeetC/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ctrl-ajit/LeetC/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ctrl-ajit/LeetC/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/ctrl-ajit/LeetC/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/ctrl-ajit/LeetC/tree/master/3453-separate-squares-i) |
@@ -226,6 +227,7 @@ Solving Leet code problems
 | [1018-binary-prefix-divisible-by-5](https://github.com/ctrl-ajit/LeetC/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ctrl-ajit/LeetC/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Tree
 |  |
 | ------- |
