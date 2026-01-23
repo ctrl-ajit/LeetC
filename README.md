@@ -49,6 +49,7 @@ Solving Leet code problems
 | [3453-separate-squares-i](https://github.com/ctrl-ajit/LeetC/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ctrl-ajit/LeetC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/ctrl-ajit/LeetC/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ctrl-ajit/LeetC/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -73,6 +74,7 @@ Solving Leet code problems
 | [2402-meeting-rooms-iii](https://github.com/ctrl-ajit/LeetC/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ctrl-ajit/LeetC/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/ctrl-ajit/LeetC/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ctrl-ajit/LeetC/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/ctrl-ajit/LeetC/tree/master/3606-coupon-code-validator) |
@@ -110,11 +112,13 @@ Solving Leet code problems
 | [2402-meeting-rooms-iii](https://github.com/ctrl-ajit/LeetC/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/ctrl-ajit/LeetC/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ctrl-ajit/LeetC/tree/master/0021-merge-two-sorted-lists) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -305,6 +309,7 @@ Solving Leet code problems
 | [2054-two-best-non-overlapping-events](https://github.com/ctrl-ajit/LeetC/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/ctrl-ajit/LeetC/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -326,8 +331,10 @@ Solving Leet code problems
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
