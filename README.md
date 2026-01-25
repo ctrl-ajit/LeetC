@@ -29,6 +29,7 @@ Solving Leet code problems
 | [1895-largest-magic-square](https://github.com/ctrl-ajit/LeetC/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ctrl-ajit/LeetC/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ctrl-ajit/LeetC/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ctrl-ajit/LeetC/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ctrl-ajit/LeetC/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ctrl-ajit/LeetC/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ctrl-ajit/LeetC/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -205,6 +206,7 @@ Solving Leet code problems
 ## Sliding Window
 |  |
 | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ctrl-ajit/LeetC/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ctrl-ajit/LeetC/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ctrl-ajit/LeetC/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ctrl-ajit/LeetC/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -220,6 +222,7 @@ Solving Leet code problems
 | [0759-set-intersection-size-at-least-two](https://github.com/ctrl-ajit/LeetC/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ctrl-ajit/LeetC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ctrl-ajit/LeetC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ctrl-ajit/LeetC/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ctrl-ajit/LeetC/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/ctrl-ajit/LeetC/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ctrl-ajit/LeetC/tree/master/2141-maximum-running-time-of-n-computers) |
