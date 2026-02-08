@@ -266,6 +266,7 @@ Solving Leet code problems
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ctrl-ajit/LeetC/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -273,6 +274,7 @@ Solving Leet code problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ctrl-ajit/LeetC/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -346,6 +348,7 @@ Solving Leet code problems
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Segment Tree
