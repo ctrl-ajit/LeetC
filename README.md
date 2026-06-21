@@ -26,6 +26,7 @@ Solving Leet code problems
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ctrl-ajit/LeetC/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ctrl-ajit/LeetC/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/ctrl-ajit/LeetC/tree/master/1590-make-sum-divisible-by-p) |
+| [1833-maximum-ice-cream-bars](https://github.com/ctrl-ajit/LeetC/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ctrl-ajit/LeetC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/ctrl-ajit/LeetC/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ctrl-ajit/LeetC/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -183,6 +184,7 @@ Solving Leet code problems
 | [0759-set-intersection-size-at-least-two](https://github.com/ctrl-ajit/LeetC/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ctrl-ajit/LeetC/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ctrl-ajit/LeetC/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1833-maximum-ice-cream-bars](https://github.com/ctrl-ajit/LeetC/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ctrl-ajit/LeetC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ctrl-ajit/LeetC/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ctrl-ajit/LeetC/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -240,6 +242,7 @@ Solving Leet code problems
 | [0759-set-intersection-size-at-least-two](https://github.com/ctrl-ajit/LeetC/tree/master/0759-set-intersection-size-at-least-two) |
 | [1200-minimum-absolute-difference](https://github.com/ctrl-ajit/LeetC/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ctrl-ajit/LeetC/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1833-maximum-ice-cream-bars](https://github.com/ctrl-ajit/LeetC/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ctrl-ajit/LeetC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ctrl-ajit/LeetC/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ctrl-ajit/LeetC/tree/master/2054-two-best-non-overlapping-events) |
@@ -383,4 +386,8 @@ Solving Leet code problems
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ctrl-ajit/LeetC/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ctrl-ajit/LeetC/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ctrl-ajit/LeetC/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
