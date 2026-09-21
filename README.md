@@ -60,6 +60,7 @@ Solving Leet code problems
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ctrl-ajit/LeetC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3524-find-x-value-of-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3524-find-x-value-of-array-i) |
 | [3531-count-covered-buildings](https://github.com/ctrl-ajit/LeetC/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ctrl-ajit/LeetC/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ctrl-ajit/LeetC/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -114,6 +115,7 @@ Solving Leet code problems
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ctrl-ajit/LeetC/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/ctrl-ajit/LeetC/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ctrl-ajit/LeetC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3524-find-x-value-of-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3524-find-x-value-of-array-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ctrl-ajit/LeetC/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Simulation
@@ -174,6 +176,7 @@ Solving Leet code problems
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ctrl-ajit/LeetC/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ctrl-ajit/LeetC/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ctrl-ajit/LeetC/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3524-find-x-value-of-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3524-find-x-value-of-array-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ctrl-ajit/LeetC/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ctrl-ajit/LeetC/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ctrl-ajit/LeetC/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
