@@ -61,6 +61,7 @@ Solving Leet code problems
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ctrl-ajit/LeetC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3525-find-x-value-of-array-ii) |
 | [3531-count-covered-buildings](https://github.com/ctrl-ajit/LeetC/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ctrl-ajit/LeetC/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ctrl-ajit/LeetC/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -116,6 +117,7 @@ Solving Leet code problems
 | [3433-count-mentions-per-user](https://github.com/ctrl-ajit/LeetC/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ctrl-ajit/LeetC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3525-find-x-value-of-array-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ctrl-ajit/LeetC/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Simulation
@@ -369,6 +371,7 @@ Solving Leet code problems
 | ------- |
 | [3454-separate-squares-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3525-find-x-value-of-array-ii) |
 ## Line Sweep
 |  |
 | ------- |
