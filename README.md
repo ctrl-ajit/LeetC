@@ -146,6 +146,7 @@ Solving Leet code problems
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0020-valid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/ctrl-ajit/LeetC/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ctrl-ajit/LeetC/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/0756-pyramid-transition-matrix) |
@@ -315,6 +316,7 @@ Solving Leet code problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0020-valid-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/ctrl-ajit/LeetC/tree/master/2211-count-collisions-on-a-road) |
 ## Queue
 |  |
@@ -404,4 +406,8 @@ Solving Leet code problems
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ctrl-ajit/LeetC/tree/master/1833-maximum-ice-cream-bars) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
