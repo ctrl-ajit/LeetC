@@ -148,6 +148,7 @@ Solving Leet code problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0032-longest-valid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/ctrl-ajit/LeetC/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ctrl-ajit/LeetC/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/0756-pyramid-transition-matrix) |
@@ -171,6 +172,7 @@ Solving Leet code problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0032-longest-valid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/ctrl-ajit/LeetC/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ctrl-ajit/LeetC/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ctrl-ajit/LeetC/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -319,6 +321,7 @@ Solving Leet code problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0032-longest-valid-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/ctrl-ajit/LeetC/tree/master/2211-count-collisions-on-a-road) |
 ## Queue
 |  |
@@ -414,4 +417,5 @@ Solving Leet code problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
