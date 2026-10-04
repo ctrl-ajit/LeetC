@@ -150,6 +150,7 @@ Solving Leet code problems
 | [0022-generate-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0032-longest-valid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/ctrl-ajit/LeetC/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/ctrl-ajit/LeetC/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ctrl-ajit/LeetC/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ctrl-ajit/LeetC/tree/master/0944-delete-columns-to-make-sorted) |
@@ -174,6 +175,7 @@ Solving Leet code problems
 | [0022-generate-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0032-longest-valid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/ctrl-ajit/LeetC/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/ctrl-ajit/LeetC/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ctrl-ajit/LeetC/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ctrl-ajit/LeetC/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ctrl-ajit/LeetC/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -196,6 +198,7 @@ Solving Leet code problems
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ctrl-ajit/LeetC/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ctrl-ajit/LeetC/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ctrl-ajit/LeetC/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ctrl-ajit/LeetC/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -322,6 +325,7 @@ Solving Leet code problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ctrl-ajit/LeetC/tree/master/0678-valid-parenthesis-string) |
 | [2211-count-collisions-on-a-road](https://github.com/ctrl-ajit/LeetC/tree/master/2211-count-collisions-on-a-road) |
 ## Queue
 |  |
@@ -418,4 +422,5 @@ Solving Leet code problems
 | [0020-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ctrl-ajit/LeetC/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ctrl-ajit/LeetC/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
