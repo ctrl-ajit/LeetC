@@ -122,6 +122,7 @@ Solving Leet code problems
 | [3525-find-x-value-of-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3525-find-x-value-of-array-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ctrl-ajit/LeetC/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ctrl-ajit/LeetC/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Solving Leet code problems
 | [3074-apple-redistribution-into-boxes](https://github.com/ctrl-ajit/LeetC/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ctrl-ajit/LeetC/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ctrl-ajit/LeetC/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ctrl-ajit/LeetC/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Counting
 |  |
 | ------- |
