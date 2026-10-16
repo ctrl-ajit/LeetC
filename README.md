@@ -42,6 +42,7 @@ Solving Leet code problems
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ctrl-ajit/LeetC/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ctrl-ajit/LeetC/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ctrl-ajit/LeetC/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ctrl-ajit/LeetC/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ctrl-ajit/LeetC/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ctrl-ajit/LeetC/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ctrl-ajit/LeetC/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -91,6 +92,7 @@ Solving Leet code problems
 | [2402-meeting-rooms-iii](https://github.com/ctrl-ajit/LeetC/tree/master/2402-meeting-rooms-iii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ctrl-ajit/LeetC/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ctrl-ajit/LeetC/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ctrl-ajit/LeetC/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ctrl-ajit/LeetC/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -390,6 +392,7 @@ Solving Leet code problems
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ctrl-ajit/LeetC/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ctrl-ajit/LeetC/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3454-separate-squares-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3525-find-x-value-of-array-ii) |
@@ -436,4 +439,5 @@ Solving Leet code problems
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ctrl-ajit/LeetC/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ctrl-ajit/LeetC/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
