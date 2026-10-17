@@ -66,6 +66,7 @@ Solving Leet code problems
 | [3524-find-x-value-of-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3525-find-x-value-of-array-ii) |
 | [3531-count-covered-buildings](https://github.com/ctrl-ajit/LeetC/tree/master/3531-count-covered-buildings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ctrl-ajit/LeetC/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ctrl-ajit/LeetC/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ctrl-ajit/LeetC/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ctrl-ajit/LeetC/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -98,6 +99,7 @@ Solving Leet code problems
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/ctrl-ajit/LeetC/tree/master/3531-count-covered-buildings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ctrl-ajit/LeetC/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3583-count-special-triplets](https://github.com/ctrl-ajit/LeetC/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/ctrl-ajit/LeetC/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -284,6 +286,7 @@ Solving Leet code problems
 | [3075-maximize-happiness-of-selected-children](https://github.com/ctrl-ajit/LeetC/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/ctrl-ajit/LeetC/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/ctrl-ajit/LeetC/tree/master/3531-count-covered-buildings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ctrl-ajit/LeetC/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/ctrl-ajit/LeetC/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ctrl-ajit/LeetC/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bit Manipulation
