@@ -25,6 +25,7 @@ Solving Leet code problems
 | [1390-four-divisors](https://github.com/ctrl-ajit/LeetC/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ctrl-ajit/LeetC/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ctrl-ajit/LeetC/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ctrl-ajit/LeetC/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1590-make-sum-divisible-by-p](https://github.com/ctrl-ajit/LeetC/tree/master/1590-make-sum-divisible-by-p) |
 | [1833-maximum-ice-cream-bars](https://github.com/ctrl-ajit/LeetC/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ctrl-ajit/LeetC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -113,6 +114,7 @@ Solving Leet code problems
 | [1266-minimum-time-visiting-all-points](https://github.com/ctrl-ajit/LeetC/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ctrl-ajit/LeetC/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ctrl-ajit/LeetC/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ctrl-ajit/LeetC/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ctrl-ajit/LeetC/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/ctrl-ajit/LeetC/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ctrl-ajit/LeetC/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -190,6 +192,7 @@ Solving Leet code problems
 | [1262-greatest-sum-divisible-by-three](https://github.com/ctrl-ajit/LeetC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ctrl-ajit/LeetC/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ctrl-ajit/LeetC/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ctrl-ajit/LeetC/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2054-two-best-non-overlapping-events](https://github.com/ctrl-ajit/LeetC/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ctrl-ajit/LeetC/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ctrl-ajit/LeetC/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -304,6 +307,7 @@ Solving Leet code problems
 | [0110-balanced-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ctrl-ajit/LeetC/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ctrl-ajit/LeetC/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ctrl-ajit/LeetC/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -355,6 +359,7 @@ Solving Leet code problems
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ctrl-ajit/LeetC/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ctrl-ajit/LeetC/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Breadth-First Search
 |  |
@@ -391,6 +396,7 @@ Solving Leet code problems
 | [0110-balanced-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ctrl-ajit/LeetC/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Segment Tree
 |  |
 | ------- |
@@ -443,4 +449,24 @@ Solving Leet code problems
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ctrl-ajit/LeetC/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ctrl-ajit/LeetC/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ctrl-ajit/LeetC/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ctrl-ajit/LeetC/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ctrl-ajit/LeetC/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ctrl-ajit/LeetC/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ctrl-ajit/LeetC/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
