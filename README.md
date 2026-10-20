@@ -81,6 +81,7 @@ Solving Leet code problems
 | [3640-trionic-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ctrl-ajit/LeetC/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ctrl-ajit/LeetC/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3886-sum-of-sortable-integers](https://github.com/ctrl-ajit/LeetC/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Solving Leet code problems
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ctrl-ajit/LeetC/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ctrl-ajit/LeetC/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/ctrl-ajit/LeetC/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -270,6 +272,7 @@ Solving Leet code problems
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ctrl-ajit/LeetC/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ctrl-ajit/LeetC/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ctrl-ajit/LeetC/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3886-sum-of-sortable-integers](https://github.com/ctrl-ajit/LeetC/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -294,6 +297,7 @@ Solving Leet code problems
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ctrl-ajit/LeetC/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/ctrl-ajit/LeetC/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ctrl-ajit/LeetC/tree/master/3634-minimum-removals-to-balance-array) |
+| [3886-sum-of-sortable-integers](https://github.com/ctrl-ajit/LeetC/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
