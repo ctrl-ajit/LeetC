@@ -183,6 +183,7 @@ Solving Leet code problems
 | [3499-maximize-active-section-with-trade-i](https://github.com/ctrl-ajit/LeetC/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3606-coupon-code-validator](https://github.com/ctrl-ajit/LeetC/tree/master/3606-coupon-code-validator) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ctrl-ajit/LeetC/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
