@@ -82,6 +82,7 @@ Solving Leet code problems
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ctrl-ajit/LeetC/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ctrl-ajit/LeetC/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3886-sum-of-sortable-integers](https://github.com/ctrl-ajit/LeetC/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ctrl-ajit/LeetC/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
