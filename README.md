@@ -79,6 +79,7 @@ Solving Leet code problems
 | [3634-minimum-removals-to-balance-array](https://github.com/ctrl-ajit/LeetC/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3640-trionic-array-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ctrl-ajit/LeetC/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ctrl-ajit/LeetC/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ctrl-ajit/LeetC/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3886-sum-of-sortable-integers](https://github.com/ctrl-ajit/LeetC/tree/master/3886-sum-of-sortable-integers) |
@@ -309,6 +310,7 @@ Solving Leet code problems
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ctrl-ajit/LeetC/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ctrl-ajit/LeetC/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ctrl-ajit/LeetC/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Tree
 |  |
 | ------- |
