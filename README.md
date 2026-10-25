@@ -18,6 +18,7 @@ Solving Leet code problems
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ctrl-ajit/LeetC/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ctrl-ajit/LeetC/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/ctrl-ajit/LeetC/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/ctrl-ajit/LeetC/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ctrl-ajit/LeetC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ctrl-ajit/LeetC/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ctrl-ajit/LeetC/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -240,6 +241,7 @@ Solving Leet code problems
 |  |
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/ctrl-ajit/LeetC/tree/master/0840-magic-squares-in-grid) |
+| [1254-number-of-closed-islands](https://github.com/ctrl-ajit/LeetC/tree/master/1254-number-of-closed-islands) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ctrl-ajit/LeetC/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ctrl-ajit/LeetC/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-largest-magic-square](https://github.com/ctrl-ajit/LeetC/tree/master/1895-largest-magic-square) |
@@ -327,6 +329,7 @@ Solving Leet code problems
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/ctrl-ajit/LeetC/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ctrl-ajit/LeetC/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ctrl-ajit/LeetC/tree/master/2092-find-all-people-with-secret) |
@@ -378,6 +381,7 @@ Solving Leet code problems
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ctrl-ajit/LeetC/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/ctrl-ajit/LeetC/tree/master/1254-number-of-closed-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ctrl-ajit/LeetC/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ctrl-ajit/LeetC/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
@@ -469,6 +473,7 @@ Solving Leet code problems
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ctrl-ajit/LeetC/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ctrl-ajit/LeetC/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
