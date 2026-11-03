@@ -84,6 +84,7 @@ Solving Leet code problems
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ctrl-ajit/LeetC/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ctrl-ajit/LeetC/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ctrl-ajit/LeetC/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ctrl-ajit/LeetC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/ctrl-ajit/LeetC/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ctrl-ajit/LeetC/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -138,6 +139,7 @@ Solving Leet code problems
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ctrl-ajit/LeetC/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ctrl-ajit/LeetC/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ctrl-ajit/LeetC/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ctrl-ajit/LeetC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/ctrl-ajit/LeetC/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
